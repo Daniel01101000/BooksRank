@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+"homepage": "https://Daniel01101000.github.io/BooksRank",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
